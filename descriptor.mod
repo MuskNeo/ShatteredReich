@@ -7,3 +7,4 @@ tags={
 }
 name="ShatteredReich"
 supported_version="1.15.4"
+picture="thumbnail.png"
