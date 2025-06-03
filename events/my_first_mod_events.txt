@@ -5,7 +5,7 @@ country_event = {
 	title = mod_event.1.t
 	desc = mod_event.1.d
 	picture = GFX_report_event_generic_read_write
-
+	
 	trigger = {
 		is_ai = no
 	}
